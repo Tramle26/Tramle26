@@ -4,8 +4,8 @@
 🤝 I’m enthusiastic about working on **Data Science** and **AI-driven** **research** and **projects**.
 
 ## Contact
-✉️ lenubaotram2606@gmail.com
-💼 https://www.linkedin.com/in/tramle2606/
+- ✉️ lenubaotram2606@gmail.com
+- 💼 https://www.linkedin.com/in/tramle2606/
 
 ## 📌 Project
 - **Econsense** : AI_economics_consulting 
