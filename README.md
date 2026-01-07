@@ -11,7 +11,6 @@
 - **Econsense** : AI_economics_consulting 
 - **Digital_Lifestyle_Benchmark**: An R-based linear regression project identifying the most important predictors of **device-hours-per-day**
 - **Task-manager** : keep track of your **to do list**
-- **Weather_forecast**: View the Weather in United States
 
 
 <!--
