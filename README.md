@@ -1,28 +1,31 @@
-## 🌷 Hi! I am Tram Le
-💻 I am passionate about **Data Science, Machine Learning, and AI**.  
-🎓 I'm currently majoring in **Mathematics–Economics** and minoring in **Data Analytics**.  
-🤝 I’m enthusiastic about working on **Data Science** and **AI-driven** **research** and **projects**.
+# Tram Le
+
+Mathematics–Economics student at Furman University, pursuing a minor in Data Analytics. I am interested in applied artificial intelligence, AI evaluation and safety, machine learning, and data-driven economic analysis.
+
+My work focuses on evaluating AI systems and building practical tools for education, economic research, and decision-making.
+
+## Selected Projects
+
+### [Instructional Safety Evaluation](https://github.com/Tramle26/ai-safety-evals)
+Evaluated the instructional safety of frontier language models across standard and adversarial educational scenarios, comparing human assessments with LLM-as-judge scoring.
+
+### [Gemma Learning](https://github.com/Tramle26/AI-daily-probems-solving)
+Developed a Gemma-powered language-learning application featuring personalized flashcards, quizzes, content uploads, and review workflows.
+
+### [EconoSense AI](https://github.com/Tramle26/ai-economic-consultant)
+Built an AI-assisted economic research platform that combines financial data, economic news, forecasting, and plain-language strategic insights.
+
+### [Investigation Task Manager](https://github.com/Tramle26/Task-manager)
+Created a Python command-line application for organizing persistent tasks by priority, location, and completion status.
+
+## Current Interests
+
+- AI evaluation and responsible AI
+- Machine learning and data science
+- Economics and econometric analysis
+- AI applications in education
 
 ## Contact
-- ✉️ lenubaotram2606@gmail.com
-- 💼 https://www.linkedin.com/in/tramle2606/
 
-## 📌 Project
-- **Econsense** : AI_economics_consulting 
-- **Digital_Lifestyle_Benchmark**: An R-based linear regression project identifying the most important predictors of **device-hours-per-day**
-- **Task-manager** : keep track of your **to do list**
-
-
-<!--
-**Tramle26/Tramle26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/tramle2606/)
+- [Email](mailto:lenubaotram2606@gmail.com)
